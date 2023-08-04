@@ -3,283 +3,283 @@
     "name": "8-values",
     "questions": [
         {
-            "text": "Oppression by corporations is more of a concern than oppression by governments.",
+            "text": "公司的压迫比政府的压迫更令人担忧。",
             "evaluation": [10, 0, 0, 0]
         },
         {
-            "text": "It is necessary for the government to intervene in the economy to protect consumers.",
+            "text": "政府有必要干预经济以保护消费者。",
             "evaluation": [ 10, 0, 0, 0]
         },
         {
-            "text": "The freer the markets, the freer the people.",
+            "text": "市场越自由，人民就越自由。",
             "evaluation": [ -10, 0, 0, 0 ]
         },
         {
-            "text": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+            "text": "保持预算平衡比确保所有公民的福利更好。",
             "evaluation": [ -10, 0, 0, 0 ]
         },
         {
-            "text": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+            "text": "公共资助的研究比留给市场更有益于人民。",
             "evaluation": [ 10, 0, 0, 10 ]
         },
         {
-            "text": "Tariffs on international trade are important to encourage local production.",
+            "text": "国际贸易关税对于鼓励本地生产非常重要。",
             "evaluation": [ 5, 0, -10, 0 ]
         },
         {
-            "text": "From each according to his ability, to each according to his needs.",
+            "text": "各尽所能，按需分配。",
             "evaluation": [ 10, 0, 0, 0 ]
         },
         {
-            "text": "It would be best if social programs were abolished in favor of private charity.",
+            "text": "最好是废除社会计划，转而支持私人慈善事业。",
             "evaluation": [ -10, 0, 0, 0 ]
         },
         {
-            "text": "Taxes should be increased on the rich to provide for the poor.",
+            "text": "应该增加富人的税收来养活穷人。",
             "evaluation": [ 10, 0, 0, 0 ]
         },
         {
-            "text": "Inheritance is a legitimate form of wealth.",
+            "text": "继承是财富的合法形式。",
             "evaluation": [ -10, 0, 0, -5 ]
         },
         {
-            "text": "Basic utilities like roads and electricity should be publicly owned.",
+            "text": "道路和电力等基本公用事业应归公有。",
             "evaluation": [ 10, 0, 0, 0 ]
         },
         {
-            "text": "Government intervention is a threat to the economy.",
+            "text": "政府干预对经济构成威胁。",
             "evaluation": [ -10, 0, 0, 0 ]
         },
         {
-            "text": "Those with a greater ability to pay should receive better healthcare.",
+            "text": "那些有更强支付能力的人应该获得更好的医疗保健。",
             "evaluation": [ -10, 0, 0, 0 ]
         },
         {
-            "text": "Quality education is a right of all people.",
+            "text": "优质教育是所有人的权利。",
             "evaluation": [ 10, 0, 0, 5 ]
         },
         {
-            "text": "The means of production should belong to the workers who use them.",
+            "text": "生产资料应该属于使用它们的工人。",
             "evaluation": [ 10, 0, 0, 0 ]
         },
         {
-            "text": "The United Nations should be abolished.",
+            "text": "联合国应该废除。",
             "evaluation": [ 0, -10, -5, 0 ]
         },
         {
-            "text": "Military action by our nation is often necessary to protect it.",
+            "text": "我们国家常常需要采取军事行动来保护它。",
             "evaluation": [ 0, -10, -10, 0 ]
         },
         {
-            "text": "I support regional unions, such as the European Union.",
+            "text": "我支持区域联盟，例如欧盟。",
             "evaluation": [ -5, 10, 10, 5 ]
         },
         {
-            "text": "It is important to maintain our national sovereignty.",
+            "text": "维护我们的国家主权很重要。",
             "evaluation": [ 0, -10, -5, 0 ]
         },
         {
-            "text": "A united world government would be beneficial to mankind.",
+            "text": "一个统一的世界政府将造福于人类。",
             "evaluation": [ 0, 10, 0, 0 ]
         },
         {
-            "text": "It is more important to retain peaceful relations than to further our strength.",
+            "text": "保持和平关系比增强我们的实力更重要。",
             "evaluation": [ 0, 10, 0, 0 ]
         },
         {
-            "text": "Wars do not need to be justified to other countries.",
+            "text": "战争不需要向其他国家辩解。",
             "evaluation": [ 0, -10, -10, 0 ]
         },
         {
-            "text": "Military spending is a waste of money.",
+            "text": "军费开支就是浪费钱。",
             "evaluation": [ 0, 10, 10, 0 ]
         },
         {
-            "text": "International aid is a waste of money.",
+            "text": "国际援助是浪费钱。",
             "evaluation": [ -5, -10, 0, 0 ]
         },
         {
-            "text": "My nation is great.",
+            "text": "我的民族是伟大的。",
             "evaluation": [ 0, -10, 0, 0 ]
         },
         {
-            "text": "Research should be conducted on an international scale.",
+            "text": "研究应该在国际范围内进行。",
             "evaluation": [ 0, 10, 0, 10 ]
         },
         {
-            "text": "Governments should be accountable to the international community.",
+            "text": "各国政府应对国际社会负责。",
             "evaluation": [ 0, 10, 5, 0 ]
         },
         {
-            "text": "Even when protesting an authoritarian government, violence is not acceptable.",
+            "text": "即使在抗议独裁政府时，暴力也是不可接受的。",
             "evaluation": [ 0, 5, -5, 0 ]
         },
         {
-            "text": "My religious values should be spread as much as possible.",
+            "text": "我的宗教价值观应该尽可能地传播。",
             "evaluation": [ 0, -5, -10, -10 ]
         },
         {
-            "text": "Our nation's values should be spread as much as possible.",
+            "text": "我们国家的价值观应该尽可能地传播。",
             "evaluation": [ 0, -10, -5, 0 ]
         },
         {
-            "text": "It is very important to maintain law and order.",
+            "text": "维护法律和秩序非常重要。",
             "evaluation": [ 0, -5, -10, -5 ]
         },
         {
-            "text": "The general populace makes poor decisions.",
+            "text": "普通民众会做出错误的决定。",
             "evaluation": [ 0, 0, -10, 0 ]
         },
         {
-            "text": "Victimless crimes (such as drug use) should not be crimes at all.",
+            "text": "无受害人犯罪（例如吸毒）根本不应该是犯罪。",
             "evaluation": [ 0, 0, 10, 0 ]
         },
         {
-            "text": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+            "text": "为了保护我们免受恐怖主义行为的侵害，必须牺牲一些公民自由。",
             "evaluation": [ 0, 0, -10, 0 ]
         },
         {
-            "text": "Government surveillance is necessary in the modern world.",
+            "text": "在现代世界，政府监督是必要的。",
             "evaluation": [ 0, 0, -10, 0 ]
         },
         {
-            "text": "The very existence of the state is a threat to our liberty.",
+            "text": "国家的存在本身就是对我们自由的威胁。",
             "evaluation": [ 0, 0, 10, 0 ]
         },
         {
-            "text": "Regardless of political opinions, it is important to side with your country.",
+            "text": "无论政治观点如何，站在自己的国家一边很重要。",
             "evaluation": [ 0, -10, -10, -5 ]
         },
         {
-            "text": "All authority should be questioned.",
+            "text": "所有权威都应该受到质疑。",
             "evaluation": [ 0, 0, 10, 5 ]
         },
         {
-            "text": "A hierarchical state is best.",
+            "text": "分层状态是最好的。",
             "evaluation": [ 0, 0, -10, 0 ]
         },
         {
-            "text": "It is important that the government follows the majority opinion, even if it is wrong.",
+            "text": "重要的是，政府必须遵循多数人的意见，即使多数人的意见是错误的。",
             "evaluation": [ 0, 0, 10, 0 ]
         },
         {
-            "text": "The stronger the leadership, the better.",
+            "text": "领导力越强越好。",
             "evaluation": [ 0, -10, -10, 0 ]
         },
         {
-            "text": "Democracy is more than a decision-making process.",
+            "text": "民主不仅仅是一个决策过程。",
             "evaluation": [ 0, 0, 10, 0 ]
         },
         {
-            "text": "Environmental regulations are essential.",
+            "text": "环境法规至关重要。",
             "evaluation": [ 5, 0, 0, 10 ]
         },
         {
-            "text": "A better world will come from automation, science, and technology.",
+            "text": "更美好的世界将来自自动化、科学和技术。",
             "evaluation": [ 0, 0, 0, 10 ]
         },
         {
-            "text": "Children should be educated in religious or traditional values.",
+            "text": "儿童应该接受宗教或传统价值观的教育。",
             "evaluation": [ 0, 0, -5, -10 ]
         },
         {
-            "text": "Traditions are of no value on their own.",
+            "text": "传统本身没有任何价值。",
             "evaluation": [ 0, 0, 0, 10 ]
         },
         {
-            "text": "Religion should play a role in government.",
+            "text": "宗教应该在政府中发挥作用。",
             "evaluation": [ 0, 0, -10, -10 ]
         },
         {
-            "text": "Churches should be taxed the same way other institutions are taxed.",
+            "text": "教会应该像其他机构一样征税。",
             "evaluation": [ 5, 0, 0, 10 ]
         },
         {
-            "text": "Climate change is currently one of the greatest threats to our way of life.",
+            "text": "气候变化目前是对我们生活方式的最大威胁之一。",
             "evaluation": [ 0, 0, 0, 10 ]
         },
         {
-            "text": "It is important that we work as a united world to combat climate change.",
+            "text": "重要的是，我们作为一个团结的世界共同应对气候变化。",
             "evaluation": [ 0, 10, 0, 10 ]
         },
         {
-            "text": "Society was better many years ago than it is now.",
+            "text": "很多年前的社会比现在更好。",
             "evaluation": [ 0, 0, 0, -10 ]
         },
         {
-            "text": "It is important that we maintain the traditions of our past.",
+            "text": "重要的是我们保持过去的传统。",
             "evaluation": [ 0, 0, 0, -10 ]
         },
         {
-            "text": "It is important that we think in the long term, beyond our lifespans.",
+            "text": "重要的是，我们要从长远考虑，超越我们的寿命。",
             "evaluation": [ 0, 0, 0, 10 ]
         },
         {
-            "text": "Reason is more important than maintaining our culture.",
+            "text": "理性比维护我们的文化更重要。",
             "evaluation": [ 0, 0, 0, 10 ]
         },
         {
-            "text": "Drug use should be legalized or decriminalized.",
+            "text": "吸毒应该合法化或非刑事化。",
             "evaluation": [ 0, 0, 10, 2 ]
         },
         {
-            "text": "Same-sex marriage should be legal.",
+            "text": "同性婚姻应该合法。",
             "evaluation": [ 0, 0, 10, 10 ]
         },
         {
-            "text": "No cultures are superior to others.",
+            "text": "没有一种文化优于其他文化。",
             "evaluation": [ 0, 10, 5, 10 ]
         },
         {
-            "text": "Sex outside marriage is immoral.",
+            "text": "婚外性行为是不道德的。",
             "evaluation": [ 0, 0, -5, -10 ]
         },
         {
-            "text": "If we accept migrants at all, it is important that they assimilate into our culture.",
+            "text": "如果我们确实接受移民，那么让他们融入我们的文化就很重要。",
             "evaluation": [ 0, 0, -5, -10 ]
         },
         {
-            "text": "Abortion should be prohibited in most or all cases.",
+            "text": "在大多数或所有情况下都应禁止堕胎。",
             "evaluation": [ 0, 0, -10, -10 ]
         },
         {
-            "text": "Gun ownership should be prohibited for those without a valid reason.",
+            "text": "无正当理由应禁止持有枪支。",
             "evaluation": [ 0, 0, -10, 0 ]
         },
         {
-            "text": "I support single-payer, universal healthcare.",
+            "text": "我支持单一付款人、全民医疗保健。",
             "evaluation": [ 10, 0, 0, 0 ]
         },
         {
-            "text": "Prostitution should be illegal.",
+            "text": "卖淫应该是非法的。",
             "evaluation": [ 0, 0, -10, -10 ]
         },
         {
-            "text": "Maintaining family values is essential.",
+            "text": "维护家庭价值观至关重要。",
             "evaluation": [ 0, 0, 0, -10 ]
         },
         {
-            "text": "To chase progress at all costs is dangerous.",
+            "text": "不惜一切代价追求进步是危险的。",
             "evaluation": [ 0, 0, 0, -10 ]
         },
         {
-            "text": "Genetic modification is a force for good, even on humans.",
+            "text": "基因改造是一种向善的力量，即使对人类也是如此。",
             "evaluation": [ 0, 0, 0, 10 ]
         },
         {
-            "text": "We should open our borders to immigration.",
+            "text": "我们应该向移民开放边境。",
             "evaluation": [ 0, 10, 10, 0 ]
         },
         {
-            "text": "Governments should be as concerned about foreigners as they are about their own citizens.",
+            "text": "政府应该像关心本国公民一样关心外国人。",
             "evaluation": [ 0, 10, 0, 0 ]
         },
         {
-            "text": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+            "text": "所有人——无论文化或性取向等因素如何——都应该受到平等对待。",
             "evaluation": [ 10, 10, 10, 10 ]
         },
         {
-            "text": "It is important that we further my group's goals above all others.",
+            "text": "重要的是，我们首先要推进我的团队的目标。",
             "evaluation": [ -10, -10, -10, -10 ]
         }
     ]
